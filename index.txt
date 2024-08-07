@@ -1,1 +1,2 @@
 discuss about branches in git
+changed by new branch
